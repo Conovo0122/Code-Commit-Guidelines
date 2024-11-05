@@ -1,3 +1,3 @@
 # Code-Commit-Guidelines
 This is for code commit guidlines demo
-vvvb
+code commit guide lines can be configure
